@@ -1,8 +1,0 @@
-Texte issu des diapos d'une présentation d'Hervé.
-
-Un système critique chargé de maintenir la vie et le bien-être
-Un système hautement réglementé et contrôlé au niveau national
-Un sous-système d'assurance sociale fondé sur la solidarité et l'inclusion massive
-Une organisation globale très segmentée, principalement basée sur les spécialités médicales et avec un grand nombre d'entités autorisées à prendre soin des personnes (des activités cliniques aux activités plus sociales).
-Une nouvelle vision politique basée sur le concept de parcours du patient (1) pour promouvoir un esprit centré sur l'utilisateur et (2) pour surmonter le nomadisme institutionnel et la rupture de la continuité des soins.
-Une complexité à atténuer due à un mélange d'incertitude, d'instabilité, d'actifs en réseau et d'émergence dynamique de phénomènes inattendus tout au long des parcours.

@@ -11,7 +11,7 @@ Style : h5P book
 Objectifs
 
 - Informer
-  - Introduire le terme systÃ¨me de santÃ© franÃ§ais et la suite
+  - Présenter une vision macroscopique du système de santé français
 
 - Contenu
   - Connaissances apprises

@@ -8,7 +8,7 @@ Relecture : VB - 26 mai 2023
 ## Introduction
 
 AUDIO
-Le système de santé français est composé d'une combinaison d'acteurs-clés qui travaillent de concert pour offrir du bien-être aux citoyens, et majoritairement des soins lors de la prise en charge de personnes malades.
+Le système de santé français est composé d'une combinaison d'acteurs-clés qui travaillent de concert pour offrir du bien-être aux citoyens, et majoritairement des soins lors de la prise en charge de personnes malades. En voici une vision macroscopique.
 
 ## Présentation des acteurs
 

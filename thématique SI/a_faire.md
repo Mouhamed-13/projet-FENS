@@ -12,7 +12,11 @@
 
 ## si-001
 
+système ouvert (si on parle de flux)
+
 ## si-002
+
+- Ajouter l'exemple voiture sous forme de nomenclature physique / fonctionnelle (ex: gamme voiture,moteur, cylindre)
 
 ## si-003
 
